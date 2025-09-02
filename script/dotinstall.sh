@@ -43,7 +43,7 @@ function dotfiles_configuration() {
         if [[ -e "$HOME/$(basename $f)" ]]; then
           mv $HOME/$(basename $f) $HOME/.dotbackups/
         fi
-        cp $f $HOME
+        cp -r $f $HOME
       fi
     done
   else
