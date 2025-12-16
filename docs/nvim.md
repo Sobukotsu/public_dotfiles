@@ -21,7 +21,7 @@ nvim
             |--mini.lua
 ```
 # Setting
-vanilla.lud
+vanilla.lua
 
 # Colorscheme
 
