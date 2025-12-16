@@ -18,7 +18,7 @@ nvim
             |
             |-- manager.lua
             |
-            |--mini.lua
+            |-- mini.lua
 ```
 # Setting
 vanilla.lua
