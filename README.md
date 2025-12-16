@@ -1,4 +1,4 @@
-# dotfiles
+# My dotfiles
 This repository is my dotfiles.
 
 ## HowTo
