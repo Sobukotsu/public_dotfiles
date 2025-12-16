@@ -27,13 +27,13 @@ vanilla.lud
 
 # Plugins
 ## Plugin Manager
-    - ** [mini.deps](https://github.com/nvim-mini/mini.deps) **
+    ** [mini.deps](https://github.com/nvim-mini/mini.deps) **
 ## Appearance
 ### Colorscheme
-    - ** [folke/tokyonight.vim](https://github.com/folke/tokyonight.nvim) **
+    ** [folke/tokyonight.vim](https://github.com/folke/tokyonight.nvim) **
 ## LSP
-    - ** [williamboman/mason.nvim](https://github.com/mason-org/mason.nvim) **
-    - ** [williamboman/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim/tree/main) **
+    ** [williamboman/mason.nvim](https://github.com/mason-org/mason.nvim) ** <br>
+    ** [williamboman/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim/tree/main) **
 ## mini.vim
     - mini.basics
     - mini.extra
